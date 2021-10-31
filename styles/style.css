@@ -24,7 +24,7 @@ a {
 
 a:visited 
 {
-  text-decoration: none; 
+  text-decoration: none;
   color: inherit; 
 }
 
@@ -76,7 +76,7 @@ a:visited
 	width: 568px;
 	height: 568px;
 	background: #2f80ed;
-  position: absolute ;
+  position: absolute;
   right: 0;
   top: 64px;
 }
@@ -261,7 +261,7 @@ a:visited
 .footer__column{
   flex-basis: 711px;
   display: flex;
-  justify-content: flex-start; 
+  justify-content: flex-start;
   width: 90%;
   margin: 60px 0 0 64px;
 }
