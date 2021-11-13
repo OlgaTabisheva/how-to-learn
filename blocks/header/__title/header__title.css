@@ -4,8 +4,10 @@
   font-size: 102px;
   font-weight: bold;
   z-index: 3;
-  margin-left: 64px;
+  margin:0 0 0 64px;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+
+
   }
